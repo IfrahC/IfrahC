@@ -3,6 +3,7 @@ Currently a sophomore at Habib University with a major in Computer Science and a
 The languages and programs I have learnt so far and am comfortable working with:
 - Python
 - C++
+- Swift
 - SQL
 - MongoDB
 - LaTeX
